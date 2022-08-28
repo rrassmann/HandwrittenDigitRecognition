@@ -7,7 +7,7 @@ The dataset was created using a flexible production system. A video of the produ
 ## About the networks
 In addition to the recorded test data, the networks used in the paper are also provided. Only the data from the MNIST dataset [3] has been used for training the networks. The trained networks are also available in the form of an ONNX file. The structure of networks C1, C2, C3 and M7 has been taken from the paper [4].
 
-## About the flexible production system
+## About the production system
 The shown robotic cell is a demonstrator to investigate different approaches for an individualized manufacturing. The demonstrator is installed at the University of Applied Sciences Kiel, where it is used in the laboratory for automation technology. More robot applications can be viewed here: https://www.youtube.com/channel/UC5JAGlTocVH4nLe9tcfjI0w
 
 # References
